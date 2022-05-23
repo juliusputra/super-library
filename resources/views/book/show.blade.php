@@ -16,13 +16,7 @@
                     </div>
 
                     <div class="overflow-auto">
-                        <p>{{ $book->synopsis }}
-                            {{ $book->synopsis }}
-                            {{ $book->synopsis }}
-                            {{ $book->synopsis }}
-                            {{ $book->synopsis }}
-                            {{ $book->synopsis }}
-                            {{ $book->synopsis }}</p>
+                        <p>{{ $book->synopsis }}</p>
                     </div>
                 </div>
             </div>
